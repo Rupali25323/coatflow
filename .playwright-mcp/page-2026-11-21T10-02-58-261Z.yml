@@ -1,0 +1,214 @@
+- generic [ref=f1e3]:
+  - complementary [ref=f1e4]:
+    - link "coatflow WORKSHOP OS" [ref=f1e5] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=f1e11]:
+        - strong [ref=f1e12]: coatflow
+        - generic [ref=f1e13]: WORKSHOP OS
+    - button "Vertex Coatings Manufacturing" [ref=f1e14] [cursor=pointer]:
+      - generic [ref=f1e18]:
+        - strong [ref=f1e19]: Vertex Coatings
+        - generic [ref=f1e20]: Manufacturing
+    - navigation "Main navigation" [ref=f1e23]:
+      - generic [ref=f1e24]:
+        - paragraph [ref=f1e25]: WORKSPACE
+        - button "Dashboard" [ref=f1e26] [cursor=pointer]
+        - button "Customers" [ref=f1e33] [cursor=pointer]
+        - button "Enquiries 4" [ref=f1e40] [cursor=pointer]:
+          - generic [ref=f1e43]: Enquiries
+          - generic [ref=f1e44]: "4"
+        - button "Quotations" [ref=f1e45] [cursor=pointer]
+        - button "Orders" [ref=f1e50] [cursor=pointer]
+      - generic [ref=f1e56]:
+        - paragraph [ref=f1e57]: OPERATIONS
+        - button "Job Cards" [ref=f1e58] [cursor=pointer]
+        - button "Production" [ref=f1e63] [cursor=pointer]
+        - button "Inventory" [ref=f1e67] [cursor=pointer]
+        - button "Quality Control" [ref=f1e79] [cursor=pointer]
+        - button "Dispatch" [ref=f1e84] [cursor=pointer]
+      - generic [ref=f1e91]:
+        - paragraph [ref=f1e92]: FINANCE
+        - button "Invoices" [ref=f1e93] [cursor=pointer]
+        - button "Payments" [ref=f1e98] [cursor=pointer]
+    - generic [ref=f1e102]:
+      - generic [ref=f1e103]:
+        - strong [ref=f1e108]: Need a hand?
+        - paragraph [ref=f1e109]: Our team is here to help you get more from CoatFlow.
+        - button "Visit help center" [ref=f1e110] [cursor=pointer]
+      - button "Settings" [ref=f1e113] [cursor=pointer]
+      - generic [ref=f1e118]:
+        - generic [ref=f1e119]: RK
+        - generic [ref=f1e120]:
+          - strong [ref=f1e121]: Rahul Kulkarni
+          - generic [ref=f1e122]: Workshop admin
+  - main [ref=f1e127]:
+    - generic [ref=f1e128]:
+      - generic [ref=f1e130]:
+        - generic [ref=f1e131]: Workspace
+        - strong [ref=f1e134]: Dashboard
+      - generic [ref=f1e135]:
+        - generic [ref=f1e136]:
+          - textbox "Search current page" [ref=f1e140]:
+            - /placeholder: Search anything...
+          - generic [ref=f1e141]: ⌘ K
+        - button "Notifications" [ref=f1e143] [cursor=pointer]
+        - button "Help" [ref=f1e148] [cursor=pointer]
+    - generic [ref=f1e152]:
+      - generic [ref=f1e153]:
+        - generic [ref=f1e154]:
+          - generic [ref=f1e155]: SATURDAY, NOVEMBER 21, 2026 SHIFT A
+          - heading "Good morning, Rahul ✳" [level=1] [ref=f1e159]:
+            - text: Good morning, Rahul
+            - generic [ref=f1e160]: ✳
+          - paragraph [ref=f1e161]: Here's what's happening at your workshop today.
+        - button "Create an order" [ref=f1e162] [cursor=pointer]
+      - generic [ref=f1e174]:
+        - article [ref=f1e175]:
+          - button "More about Total revenue" [ref=f1e181] [cursor=pointer]
+          - paragraph [ref=f1e186]: Total revenue
+          - generic [ref=f1e187]: ₹15,000
+          - generic [ref=f1e188]:
+            - generic [ref=f1e189]: —
+            - generic [ref=f1e193]: vs. last month
+        - article [ref=f1e194]:
+          - button "More about Active orders" [ref=f1e201] [cursor=pointer]
+          - paragraph [ref=f1e206]: Active orders
+          - generic [ref=f1e207]: "04"
+          - generic [ref=f1e208]:
+            - generic [ref=f1e209]: 7 customers
+            - generic [ref=f1e213]: in current pipeline
+        - article [ref=f1e214]:
+          - button "More about In production" [ref=f1e219] [cursor=pointer]
+          - paragraph [ref=f1e224]: In production
+          - generic [ref=f1e225]: "01"
+          - generic [ref=f1e226]:
+            - generic [ref=f1e227]: 0 due today
+            - generic [ref=f1e228]: on the floor
+        - article [ref=f1e229]:
+          - button "More about Pending payments" [ref=f1e235] [cursor=pointer]
+          - paragraph [ref=f1e240]: Pending payments
+          - generic [ref=f1e241]: ₹36,920
+          - generic [ref=f1e242]:
+            - generic [ref=f1e243]: 2 invoices
+            - generic [ref=f1e247]: need attention
+      - generic [ref=f1e248]:
+        - generic [ref=f1e249]:
+          - generic [ref=f1e250]:
+            - generic [ref=f1e251]:
+              - paragraph [ref=f1e252]: YOUR BUSINESS AT A GLANCE
+              - heading "Revenue overview" [level=2] [ref=f1e253]
+            - generic [ref=f1e254]:
+              - generic [ref=f1e255]: Revenue
+              - button "30 days" [active] [ref=f1e403] [cursor=pointer]
+          - generic [ref=f1e260]:
+            - strong [ref=f1e261]: ₹15,000
+            - generic [ref=f1e262]: collected in the last 30 days
+          - generic [ref=f1e263]:
+            - generic [ref=f1e264]:
+              - generic [ref=f1e265]: ₹15k
+              - generic [ref=f1e266]: ₹11k
+              - generic [ref=f1e267]: ₹8k
+              - generic [ref=f1e268]: ₹4k
+              - generic [ref=f1e269]: ₹0
+            - img "Revenue trend for the last 30 days" [ref=f1e404]
+            - generic [ref=f1e274]:
+              - generic [ref=f1e405]: "23"
+              - generic [ref=f1e406]: "26"
+              - generic [ref=f1e407]: "29"
+              - generic [ref=f1e408]: "1"
+              - generic [ref=f1e409]: "4"
+              - generic [ref=f1e410]: "7"
+              - generic [ref=f1e411]: "10"
+              - generic [ref=f1e412]: "13"
+              - generic [ref=f1e413]: "16"
+              - generic [ref=f1e414]: "19"
+        - generic [ref=f1e287]:
+          - generic [ref=f1e288]:
+            - generic [ref=f1e289]:
+              - paragraph [ref=f1e290]: LIVE FLOOR STATUS
+              - heading "Production overview" [level=2] [ref=f1e291]
+            - button "View board" [ref=f1e292] [cursor=pointer]
+          - generic [ref=f1e295]:
+            - strong [ref=f1e296]: "1"
+            - generic [ref=f1e297]: active jobs
+            - generic [ref=f1e298]: Live
+          - generic [ref=f1e300]:
+            - generic [ref=f1e302]:
+              - generic [ref=f1e303]: Pre-treatment
+              - strong [ref=f1e304]: "0"
+            - generic [ref=f1e307]:
+              - generic [ref=f1e308]: Powder coating
+              - strong [ref=f1e309]: "1"
+            - generic [ref=f1e313]:
+              - generic [ref=f1e314]: Curing and cooling
+              - strong [ref=f1e315]: "0"
+            - generic [ref=f1e318]:
+              - generic [ref=f1e319]: Quality inspection
+              - strong [ref=f1e320]: "0"
+          - generic [ref=f1e327]:
+            - strong [ref=f1e328]: 0 jobs due today
+            - generic [ref=f1e329]: Keep an eye on the delivery queue.
+      - generic [ref=f1e332]:
+        - generic [ref=f1e333]:
+          - generic [ref=f1e334]:
+            - paragraph [ref=f1e335]: KEEP THINGS MOVING
+            - heading "Recent orders 04" [level=2] [ref=f1e336]:
+              - text: Recent orders
+              - generic [ref=f1e337]: "04"
+          - button "All orders" [ref=f1e338] [cursor=pointer]
+        - table [ref=f1e342]:
+          - rowgroup [ref=f1e343]:
+            - row [ref=f1e344]:
+              - columnheader "ORDER" [ref=f1e345]
+              - columnheader "CUSTOMER" [ref=f1e346]
+              - columnheader "STATUS" [ref=f1e347]
+              - columnheader "DUE DATE" [ref=f1e348]
+              - columnheader "AMOUNT" [ref=f1e349]
+          - rowgroup [ref=f1e350]:
+            - row [ref=f1e351]:
+              - cell "ORD-48445583" [ref=f1e352]
+              - cell "AI Acme2 Industries —" [ref=f1e353]:
+                - generic [ref=f1e354]:
+                  - generic [ref=f1e355]: AI
+                  - generic [ref=f1e356]:
+                    - strong [ref=f1e357]: Acme2 Industries
+                    - generic [ref=f1e358]: —
+              - cell "Confirmed" [ref=f1e359]
+              - cell "—" [ref=f1e362]
+              - cell "₹5,000" [ref=f1e363]
+            - row [ref=f1e364]:
+              - cell "ORD-46679375" [ref=f1e365]
+              - cell "AI Acme1 Industries —" [ref=f1e366]:
+                - generic [ref=f1e367]:
+                  - generic [ref=f1e368]: AI
+                  - generic [ref=f1e369]:
+                    - strong [ref=f1e370]: Acme1 Industries
+                    - generic [ref=f1e371]: —
+              - cell "Confirmed" [ref=f1e372]
+              - cell "—" [ref=f1e375]
+              - cell "₹5,000" [ref=f1e376]
+            - row [ref=f1e377]:
+              - cell "ORD-2026-002" [ref=f1e378]
+              - cell "MA Meridian Auto Parts Signal red · 80 pcs" [ref=f1e379]:
+                - generic [ref=f1e380]:
+                  - generic [ref=f1e381]: MA
+                  - generic [ref=f1e382]:
+                    - strong [ref=f1e383]: Meridian Auto Parts
+                    - generic [ref=f1e384]: Signal red · 80 pcs
+              - cell "Confirmed" [ref=f1e385]
+              - cell "Nov 25, 2026" [ref=f1e388]
+              - cell "₹37,170" [ref=f1e389]
+            - row [ref=f1e390]:
+              - cell "ORD-2026-001" [ref=f1e391]
+              - cell "AF Apex Fabricators Jet black · 320 pcs" [ref=f1e392]:
+                - generic [ref=f1e393]:
+                  - generic [ref=f1e394]: AF
+                  - generic [ref=f1e395]:
+                    - strong [ref=f1e396]: Apex Fabricators
+                    - generic [ref=f1e397]: Jet black · 320 pcs
+              - cell "In Production" [ref=f1e398]
+              - cell "Nov 24, 2026" [ref=f1e401]
+              - cell "₹56,640" [ref=f1e402]
+      - generic [ref=f1e169]:
+        - generic [ref=f1e170]: Everything is up to date
+        - generic [ref=f1e173]: Last synced just now

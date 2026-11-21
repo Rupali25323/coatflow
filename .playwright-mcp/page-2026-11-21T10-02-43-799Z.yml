@@ -1,0 +1,187 @@
+- generic [ref=e3]:
+  - complementary [ref=e4]:
+    - link "coatflow WORKSHOP OS" [ref=e5] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=e11]:
+        - strong [ref=e12]: coatflow
+        - generic [ref=e13]: WORKSHOP OS
+    - button "Vertex Coatings Manufacturing" [ref=e14] [cursor=pointer]:
+      - generic [ref=e18]:
+        - strong [ref=e19]: Vertex Coatings
+        - generic [ref=e20]: Manufacturing
+    - navigation "Main navigation" [ref=e23]:
+      - generic [ref=e24]:
+        - paragraph [ref=e25]: WORKSPACE
+        - button "Dashboard" [ref=e26] [cursor=pointer]
+        - button "Customers" [ref=e33] [cursor=pointer]
+        - button "Enquiries 4" [ref=e40] [cursor=pointer]:
+          - generic [ref=e43]: Enquiries
+          - generic [ref=e44]: "4"
+        - button "Quotations" [ref=e45] [cursor=pointer]
+        - button "Orders" [ref=e50] [cursor=pointer]
+      - generic [ref=e56]:
+        - paragraph [ref=e57]: OPERATIONS
+        - button "Job Cards" [ref=e58] [cursor=pointer]
+        - button "Production" [ref=e63] [cursor=pointer]
+        - button "Inventory" [ref=e67] [cursor=pointer]
+        - button "Quality Control" [ref=e79] [cursor=pointer]
+        - button "Dispatch" [ref=e84] [cursor=pointer]
+      - generic [ref=e91]:
+        - paragraph [ref=e92]: FINANCE
+        - button "Invoices" [ref=e93] [cursor=pointer]
+        - button "Payments" [ref=e98] [cursor=pointer]
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - strong [ref=e108]: Need a hand?
+        - paragraph [ref=e109]: Our team is here to help you get more from CoatFlow.
+        - button "Visit help center" [ref=e110] [cursor=pointer]
+      - button "Settings" [ref=e113] [cursor=pointer]
+      - generic [ref=e118]:
+        - generic [ref=e119]: RK
+        - generic [ref=e120]:
+          - strong [ref=e121]: Rahul Kulkarni
+          - generic [ref=e122]: Workshop admin
+  - main [ref=e127]:
+    - generic [ref=e128]:
+      - generic [ref=e130]:
+        - generic [ref=e131]: Workspace
+        - strong [ref=e134]: Customers
+      - generic [ref=e135]:
+        - generic [ref=e136]:
+          - textbox "Search current page" [ref=e140]:
+            - /placeholder: Search anything...
+          - generic [ref=e141]: ⌘ K
+        - button "Notifications" [ref=e143] [cursor=pointer]
+        - button "Help" [ref=e148] [cursor=pointer]
+    - generic [ref=e152]:
+      - generic [ref=e153]:
+        - generic [ref=e154]:
+          - generic [ref=e155]:
+            - generic [ref=e156]: WORKSPACE
+            - text: CUSTOMERS
+          - heading "Customers" [level=1] [ref=e159]
+          - paragraph [ref=e160]: Build stronger relationships and keep every customer detail in one place.
+        - button "New customer" [ref=e161] [cursor=pointer]
+      - generic [ref=e163]:
+        - article [ref=e164]:
+          - generic [ref=e168]:
+            - generic [ref=e169]: Total customers
+            - strong [ref=e170]: "07"
+        - article [ref=e171]:
+          - generic [ref=e175]:
+            - generic [ref=e176]: Active status types
+            - strong [ref=e177]: "01"
+        - article [ref=e178]:
+          - generic [ref=e183]:
+            - generic [ref=e184]: Value in this view
+            - strong [ref=e185]: —
+        - article [ref=e186]:
+          - generic [ref=e190]:
+            - generic [ref=e191]: Last updated
+            - strong [ref=e192]: Just now
+      - generic [ref=e193]:
+        - generic [ref=e194]:
+          - generic [ref=e195]:
+            - heading "All customers 07" [level=2] [ref=e240]:
+              - text: All customers
+              - generic [ref=e197]: "07"
+            - paragraph [ref=e198]: A clear view of everything currently in your workspace.
+          - generic [ref=e199]:
+            - combobox "Filter records by status" [ref=e203] [cursor=pointer]:
+              - option "All records" [selected]
+              - option "Active"
+            - button "Export" [ref=e204] [cursor=pointer]
+        - table [ref=e209]:
+          - rowgroup [ref=e210]:
+            - row [ref=e211]:
+              - columnheader "REFERENCE" [ref=e212]
+              - columnheader "CUSTOMER / ITEM" [ref=e213]
+              - columnheader "DETAILS" [ref=e214]
+              - columnheader "STATUS" [ref=e215]
+              - columnheader "DUE DATE" [ref=e216]
+              - columnheader "VALUE" [ref=e217]
+              - columnheader "Actions" [ref=e218]
+          - rowgroup [ref=e241]:
+            - row [ref=e242]:
+              - cell "CUS-48446518" [ref=e243]
+              - cell [ref=e244]:
+                - strong [ref=e245]: Acme2 Industries
+              - cell "—" [ref=e246]
+              - cell "Active" [ref=e247]
+              - cell "Nov 21, 2026" [ref=e250]
+              - cell "—" [ref=e251]
+              - cell [ref=e252]:
+                - button "More options for CUS-48446518" [ref=e253] [cursor=pointer]
+            - row [ref=e258]:
+              - cell "CUS-46681078" [ref=e259]
+              - cell [ref=e260]:
+                - strong [ref=e261]: Acme1 Industries
+              - cell "—" [ref=e262]
+              - cell "Active" [ref=e263]
+              - cell "Nov 21, 2026" [ref=e266]
+              - cell "—" [ref=e267]
+              - cell [ref=e268]:
+                - button "More options for CUS-46681078" [ref=e269] [cursor=pointer]
+            - row [ref=e274]:
+              - cell "CUS-87526567" [ref=e275]
+              - cell [ref=e276]:
+                - strong [ref=e277]: rupali
+              - cell "fgjhny" [ref=e278]
+              - cell "Active" [ref=e279]
+              - cell "Nov 21, 2026" [ref=e282]
+              - cell "—" [ref=e283]
+              - cell [ref=e284]:
+                - button "More options for CUS-87526567" [ref=e285] [cursor=pointer]
+            - row [ref=e290]:
+              - cell "CUS-0001" [ref=e291]
+              - cell [ref=e292]:
+                - strong [ref=e293]: Apex Fabricators
+              - cell "Sanjay Mehta · Pune" [ref=e294]
+              - cell "Active" [ref=e295]
+              - cell "Nov 17, 2026" [ref=e298]
+              - cell "—" [ref=e299]
+              - cell [ref=e300]:
+                - button "More options for CUS-0001" [ref=e301] [cursor=pointer]
+            - row [ref=e306]:
+              - cell "CUS-0002" [ref=e307]
+              - cell [ref=e308]:
+                - strong [ref=e309]: Meridian Auto Parts
+              - cell "Kavita Joshi · Nashik" [ref=e310]
+              - cell "Active" [ref=e311]
+              - cell "Nov 17, 2026" [ref=e314]
+              - cell "—" [ref=e315]
+              - cell [ref=e316]:
+                - button "More options for CUS-0002" [ref=e317] [cursor=pointer]
+            - row [ref=e322]:
+              - cell "CUS-0003" [ref=e323]
+              - cell [ref=e324]:
+                - strong [ref=e325]: Northstar Rail Systems
+              - cell "Rohan Nair · Mumbai" [ref=e326]
+              - cell "Active" [ref=e327]
+              - cell "Nov 17, 2026" [ref=e330]
+              - cell "—" [ref=e331]
+              - cell [ref=e332]:
+                - button "More options for CUS-0003" [ref=e333] [cursor=pointer]
+            - row [ref=e338]:
+              - cell "CUS-0004" [ref=e339]
+              - cell [ref=e340]:
+                - strong [ref=e341]: Vantage Solar Works
+              - cell "Meera Kulkarni · Aurangabad" [ref=e342]
+              - cell "Active" [ref=e343]
+              - cell "Nov 17, 2026" [ref=e346]
+              - cell "—" [ref=e347]
+              - cell [ref=e348]:
+                - button "More options for CUS-0004" [ref=e349] [cursor=pointer]
+        - generic [ref=e224]:
+          - generic [ref=e225]:
+            - text: Showing
+            - strong [ref=e226]: 1–7
+            - text: of
+            - strong [ref=e227]: "7"
+            - text: records
+          - generic [ref=e228]:
+            - button "Previous page" [disabled] [ref=e229]
+            - button "Next page" [disabled] [ref=e232]
+      - generic [ref=e235]:
+        - generic [ref=e236]: Everything is up to date
+        - generic [ref=e239]: Last synced just now

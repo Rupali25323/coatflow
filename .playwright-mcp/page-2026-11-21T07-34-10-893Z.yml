@@ -1,0 +1,138 @@
+- generic [ref=e3]:
+  - complementary [ref=e4]:
+    - link "coatflow WORKSHOP OS" [ref=e5] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=e11]:
+        - strong [ref=e12]: coatflow
+        - generic [ref=e13]: WORKSHOP OS
+    - button "Vertex Coatings Manufacturing" [ref=e14] [cursor=pointer]:
+      - generic [ref=e18]:
+        - strong [ref=e19]: Vertex Coatings
+        - generic [ref=e20]: Manufacturing
+    - navigation "Main navigation" [ref=e23]:
+      - generic [ref=e24]:
+        - paragraph [ref=e25]: WORKSPACE
+        - button "Dashboard" [ref=e26] [cursor=pointer]
+        - button "Customers" [ref=e33] [cursor=pointer]
+        - button "Enquiries 4" [ref=e40] [cursor=pointer]:
+          - generic [ref=e43]: Enquiries
+          - generic [ref=e44]: "4"
+        - button "Quotations" [ref=e45] [cursor=pointer]
+        - button "Orders" [active] [ref=e50] [cursor=pointer]
+      - generic [ref=e56]:
+        - paragraph [ref=e57]: OPERATIONS
+        - button "Job Cards" [ref=e58] [cursor=pointer]
+        - button "Production" [ref=e63] [cursor=pointer]
+        - button "Inventory" [ref=e67] [cursor=pointer]
+        - button "Quality Control" [ref=e79] [cursor=pointer]
+        - button "Dispatch" [ref=e84] [cursor=pointer]
+      - generic [ref=e91]:
+        - paragraph [ref=e92]: FINANCE
+        - button "Invoices" [ref=e93] [cursor=pointer]
+        - button "Payments" [ref=e98] [cursor=pointer]
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - strong [ref=e108]: Need a hand?
+        - paragraph [ref=e109]: Our team is here to help you get more from CoatFlow.
+        - button "Visit help center" [ref=e110] [cursor=pointer]
+      - button "Settings" [ref=e113] [cursor=pointer]
+      - generic [ref=e118]:
+        - generic [ref=e119]: RK
+        - generic [ref=e120]:
+          - strong [ref=e121]: Rahul Kulkarni
+          - generic [ref=e122]: Workshop admin
+  - main [ref=e127]:
+    - generic [ref=e128]:
+      - generic [ref=e130]:
+        - generic [ref=e131]: Workspace
+        - strong [ref=e134]: Orders
+      - generic [ref=e135]:
+        - generic [ref=e136]:
+          - textbox "Search current page" [ref=e140]:
+            - /placeholder: Search anything...
+          - generic [ref=e141]: ⌘ K
+        - button "Notifications" [ref=e143] [cursor=pointer]
+        - button "Help" [ref=e148] [cursor=pointer]
+    - generic [ref=e152]:
+      - generic [ref=e153]:
+        - generic [ref=e154]:
+          - generic [ref=e155]:
+            - generic [ref=e156]: WORKSPACE
+            - text: ORDERS
+          - heading "Orders" [level=1] [ref=e322]
+          - paragraph [ref=e160]: Track every confirmed job from order intake to successful delivery.
+        - button "New order" [ref=e323] [cursor=pointer]
+      - generic [ref=e163]:
+        - article [ref=e164]:
+          - generic [ref=e168]:
+            - generic [ref=e169]: Total orders
+            - strong [ref=e170]: "02"
+        - article [ref=e171]:
+          - generic [ref=e175]:
+            - generic [ref=e176]: Active status types
+            - strong [ref=e177]: "02"
+        - article [ref=e178]:
+          - generic [ref=e183]:
+            - generic [ref=e184]: Value in this view
+            - strong [ref=e185]: ₹93,810
+        - article [ref=e186]:
+          - generic [ref=e190]:
+            - generic [ref=e191]: Last updated
+            - strong [ref=e192]: Just now
+      - generic [ref=e193]:
+        - generic [ref=e194]:
+          - generic [ref=e195]:
+            - heading "All orders 02" [level=2] [ref=e324]:
+              - text: All orders
+              - generic [ref=e197]: "02"
+            - paragraph [ref=e198]: A clear view of everything currently in your workspace.
+          - generic [ref=e199]:
+            - combobox "Filter records by status" [ref=e203] [cursor=pointer]:
+              - option "All records" [selected]
+              - option "Confirmed"
+              - option "In Production"
+            - button "Export" [ref=e204] [cursor=pointer]
+        - table [ref=e209]:
+          - rowgroup [ref=e210]:
+            - row [ref=e211]:
+              - columnheader "REFERENCE" [ref=e212]
+              - columnheader "CUSTOMER / ITEM" [ref=e213]
+              - columnheader "DETAILS" [ref=e214]
+              - columnheader "STATUS" [ref=e215]
+              - columnheader "DUE DATE" [ref=e216]
+              - columnheader "VALUE" [ref=e217]
+              - columnheader "Actions" [ref=e218]
+          - rowgroup [ref=e241]:
+            - row [ref=e325]:
+              - cell "ORD-2026-002" [ref=e326]
+              - cell [ref=e327]:
+                - strong [ref=e328]: Meridian Auto Parts
+              - cell "Follow-up demo order." [ref=e329]
+              - cell "Confirmed" [ref=e330]
+              - cell "Nov 16, 2026" [ref=e333]
+              - cell "₹37,170" [ref=e334]
+              - cell [ref=e335]:
+                - button "More options for ORD-2026-002" [ref=e336] [cursor=pointer]
+            - row [ref=e341]:
+              - cell "ORD-2026-001" [ref=e342]
+              - cell [ref=e343]:
+                - strong [ref=e344]: Apex Fabricators
+              - cell "Demo order for powder-coated aluminium enclosures." [ref=e345]
+              - cell "In Production" [ref=e346]
+              - cell "Nov 14, 2026" [ref=e349]
+              - cell "₹56,640" [ref=e350]
+              - cell [ref=e351]:
+                - button "More options for ORD-2026-001" [ref=e352] [cursor=pointer]
+        - generic [ref=e224]:
+          - generic [ref=e225]:
+            - text: Showing
+            - strong [ref=e226]: 1–2
+            - text: of
+            - strong [ref=e227]: "2"
+            - text: records
+          - generic [ref=e228]:
+            - button "Previous page" [disabled] [ref=e229]
+            - button "Next page" [disabled] [ref=e232]
+      - generic [ref=e235]:
+        - generic [ref=e236]: Everything is up to date
+        - generic [ref=e239]: Last synced just now

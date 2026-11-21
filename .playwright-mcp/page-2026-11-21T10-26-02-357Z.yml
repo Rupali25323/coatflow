@@ -1,0 +1,158 @@
+- generic [ref=f4e3]:
+  - complementary [ref=f4e4]:
+    - link "coatflow WORKSHOP OS" [ref=f4e5] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=f4e11]:
+        - strong [ref=f4e12]: coatflow
+        - generic [ref=f4e13]: WORKSHOP OS
+    - button "Vertex Coatings Manufacturing" [ref=f4e14] [cursor=pointer]:
+      - generic [ref=f4e18]:
+        - strong [ref=f4e19]: Vertex Coatings
+        - generic [ref=f4e20]: Manufacturing
+    - navigation "Main navigation" [ref=f4e23]:
+      - generic [ref=f4e24]:
+        - paragraph [ref=f4e25]: WORKSPACE
+        - button "Dashboard" [ref=f4e26] [cursor=pointer]
+        - button "Customers" [ref=f4e33] [cursor=pointer]
+        - button "Enquiries 4" [ref=f4e40] [cursor=pointer]:
+          - generic [ref=f4e43]: Enquiries
+          - generic [ref=f4e44]: "4"
+        - button "Quotations" [ref=f4e45] [cursor=pointer]
+        - button "Orders" [active] [ref=f4e50] [cursor=pointer]
+      - generic [ref=f4e56]:
+        - paragraph [ref=f4e57]: OPERATIONS
+        - button "Job Cards" [ref=f4e58] [cursor=pointer]
+        - button "Production" [ref=f4e63] [cursor=pointer]
+        - button "Inventory" [ref=f4e67] [cursor=pointer]
+        - button "Quality Control" [ref=f4e79] [cursor=pointer]
+        - button "Dispatch" [ref=f4e84] [cursor=pointer]
+      - generic [ref=f4e91]:
+        - paragraph [ref=f4e92]: FINANCE
+        - button "Invoices" [ref=f4e93] [cursor=pointer]
+        - button "Payments" [ref=f4e98] [cursor=pointer]
+    - generic [ref=f4e102]:
+      - generic [ref=f4e103]:
+        - strong [ref=f4e108]: Need a hand?
+        - paragraph [ref=f4e109]: Our team is here to help you get more from CoatFlow.
+        - button "Visit help center" [ref=f4e110] [cursor=pointer]
+      - button "Settings" [ref=f4e113] [cursor=pointer]
+      - generic [ref=f4e118]:
+        - generic [ref=f4e119]: RK
+        - generic [ref=f4e120]:
+          - strong [ref=f4e121]: Rahul Kulkarni
+          - generic [ref=f4e122]: Workshop admin
+  - main [ref=f4e127]:
+    - generic [ref=f4e128]:
+      - generic [ref=f4e129]:
+        - button "Open navigation" [ref=f4e130] [cursor=pointer]
+        - generic [ref=f4e132]:
+          - generic [ref=f4e133]: Workspace
+          - strong [ref=f4e136]: Orders
+      - generic [ref=f4e137]:
+        - generic [ref=f4e138]:
+          - textbox "Search current page":
+            - /placeholder: Search anything...
+        - button "Notifications" [ref=f4e143] [cursor=pointer]
+    - generic [ref=f4e148]:
+      - generic [ref=f4e397]:
+        - generic [ref=f4e398]:
+          - generic [ref=f4e399]:
+            - generic [ref=f4e400]: WORKSPACE
+            - text: ORDERS
+          - heading "Orders" [level=1] [ref=f4e403]
+          - paragraph [ref=f4e404]: Track every confirmed job from order intake to successful delivery.
+        - button "New order" [ref=f4e405] [cursor=pointer]
+      - generic [ref=f4e407]:
+        - article [ref=f4e408]:
+          - generic [ref=f4e412]:
+            - generic [ref=f4e413]: Total orders
+            - strong [ref=f4e414]: "04"
+        - article [ref=f4e415]:
+          - generic [ref=f4e419]:
+            - generic [ref=f4e420]: Active status types
+            - strong [ref=f4e421]: "02"
+        - article [ref=f4e422]:
+          - generic [ref=f4e427]:
+            - generic [ref=f4e428]: Value in this view
+            - strong [ref=f4e429]: ₹1,03,810
+        - article [ref=f4e430]:
+          - generic [ref=f4e434]:
+            - generic [ref=f4e435]: Last updated
+            - strong [ref=f4e436]: Just now
+      - generic [ref=f4e437]:
+        - generic [ref=f4e438]:
+          - generic [ref=f4e439]:
+            - heading "All orders 04" [level=2] [ref=f4e440]:
+              - text: All orders
+              - generic [ref=f4e441]: "04"
+            - paragraph [ref=f4e442]: A clear view of everything currently in your workspace.
+          - generic [ref=f4e443]:
+            - combobox "Filter records by status" [ref=f4e447] [cursor=pointer]:
+              - option "All records" [selected]
+              - option "Confirmed"
+              - option "In Production"
+            - button "Export" [ref=f4e448] [cursor=pointer]
+        - table [ref=f4e453]:
+          - rowgroup [ref=f4e454]:
+            - row [ref=f4e455]:
+              - columnheader "REFERENCE" [ref=f4e456]
+              - columnheader "CUSTOMER / ITEM" [ref=f4e457]
+              - columnheader "DETAILS" [ref=f4e458]
+              - columnheader "STATUS" [ref=f4e459]
+              - columnheader "DUE DATE" [ref=f4e460]
+              - columnheader "VALUE" [ref=f4e461]
+              - columnheader "Actions" [ref=f4e462]
+          - rowgroup [ref=f4e463]:
+            - row [ref=f4e464]:
+              - cell "ORD-48445583" [ref=f4e465]
+              - cell [ref=f4e466]:
+                - strong [ref=f4e467]: Acme2 Industries
+              - cell "Sample record created from Postman" [ref=f4e468]
+              - cell "Confirmed" [ref=f4e469]
+              - cell "Nov 21, 2026" [ref=f4e472]
+              - cell "₹5,000" [ref=f4e473]
+              - cell [ref=f4e474]:
+                - button "More options for ORD-48445583" [ref=f4e475] [cursor=pointer]
+            - row [ref=f4e480]:
+              - cell "ORD-46679375" [ref=f4e481]
+              - cell [ref=f4e482]:
+                - strong [ref=f4e483]: Acme1 Industries
+              - cell "Sample record created from Postman" [ref=f4e484]
+              - cell "Confirmed" [ref=f4e485]
+              - cell "Nov 21, 2026" [ref=f4e488]
+              - cell "₹5,000" [ref=f4e489]
+              - cell [ref=f4e490]:
+                - button "More options for ORD-46679375" [ref=f4e491] [cursor=pointer]
+            - row [ref=f4e496]:
+              - cell "ORD-2026-002" [ref=f4e497]
+              - cell [ref=f4e498]:
+                - strong [ref=f4e499]: Meridian Auto Parts
+              - cell "Follow-up demo order." [ref=f4e500]
+              - cell "Confirmed" [ref=f4e501]
+              - cell "Nov 16, 2026" [ref=f4e504]
+              - cell "₹37,170" [ref=f4e505]
+              - cell [ref=f4e506]:
+                - button "More options for ORD-2026-002" [ref=f4e507] [cursor=pointer]
+            - row [ref=f4e512]:
+              - cell "ORD-2026-001" [ref=f4e513]
+              - cell [ref=f4e514]:
+                - strong [ref=f4e515]: Apex Fabricators
+              - cell "Demo order for powder-coated aluminium enclosures." [ref=f4e516]
+              - cell "In Production" [ref=f4e517]
+              - cell "Nov 14, 2026" [ref=f4e520]
+              - cell "₹56,640" [ref=f4e521]
+              - cell [ref=f4e522]:
+                - button "More options for ORD-2026-001" [ref=f4e523] [cursor=pointer]
+        - generic [ref=f4e528]:
+          - generic [ref=f4e529]:
+            - text: Showing
+            - strong [ref=f4e530]: 1–4
+            - text: of
+            - strong [ref=f4e531]: "4"
+            - text: records
+          - generic [ref=f4e532]:
+            - button "Previous page" [disabled] [ref=f4e533]
+            - button "Next page" [disabled] [ref=f4e536]
+      - generic [ref=f4e539]:
+        - generic [ref=f4e540]: Everything is up to date
+        - generic [ref=f4e543]: Last synced just now

@@ -1,0 +1,167 @@
+- generic [ref=e3]:
+  - complementary [ref=e4]:
+    - link "coatflow WORKSHOP OS" [ref=e5] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=e11]:
+        - strong [ref=e12]: coatflow
+        - generic [ref=e13]: WORKSHOP OS
+    - button "Vertex Coatings Manufacturing" [ref=e14] [cursor=pointer]:
+      - generic [ref=e18]:
+        - strong [ref=e19]: Vertex Coatings
+        - generic [ref=e20]: Manufacturing
+    - navigation "Main navigation" [ref=e23]:
+      - generic [ref=e24]:
+        - paragraph [ref=e25]: WORKSPACE
+        - button "Dashboard" [ref=e26] [cursor=pointer]
+        - button "Customers" [active] [ref=e33] [cursor=pointer]
+        - button "Enquiries 4" [ref=e40] [cursor=pointer]:
+          - generic [ref=e43]: Enquiries
+          - generic [ref=e44]: "4"
+        - button "Quotations" [ref=e45] [cursor=pointer]
+        - button "Orders" [ref=e50] [cursor=pointer]
+      - generic [ref=e56]:
+        - paragraph [ref=e57]: OPERATIONS
+        - button "Job Cards" [ref=e58] [cursor=pointer]
+        - button "Production" [ref=e63] [cursor=pointer]
+        - button "Inventory" [ref=e67] [cursor=pointer]
+        - button "Quality Control" [ref=e79] [cursor=pointer]
+        - button "Dispatch" [ref=e84] [cursor=pointer]
+      - generic [ref=e91]:
+        - paragraph [ref=e92]: FINANCE
+        - button "Invoices" [ref=e93] [cursor=pointer]
+        - button "Payments" [ref=e98] [cursor=pointer]
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - strong [ref=e108]: Need a hand?
+        - paragraph [ref=e109]: Our team is here to help you get more from CoatFlow.
+        - button "Visit help center" [ref=e110] [cursor=pointer]
+      - button "Settings" [ref=e113] [cursor=pointer]
+      - generic [ref=e118]:
+        - generic [ref=e119]: RK
+        - generic [ref=e120]:
+          - strong [ref=e121]: Rahul Kulkarni
+          - generic [ref=e122]: Workshop admin
+  - main [ref=e127]:
+    - generic [ref=e128]:
+      - generic [ref=e130]:
+        - generic [ref=e131]: Workspace
+        - strong [ref=e134]: Customers
+      - generic [ref=e135]:
+        - generic [ref=e136]:
+          - textbox "Search current page" [ref=e140]:
+            - /placeholder: Search anything...
+          - generic [ref=e141]: ⌘ K
+        - button "Notifications" [ref=e143] [cursor=pointer]
+        - button "Help" [ref=e148] [cursor=pointer]
+    - generic [ref=e152]:
+      - generic [ref=e405]:
+        - generic [ref=e406]:
+          - generic [ref=e407]:
+            - generic [ref=e408]: WORKSPACE
+            - text: CUSTOMERS
+          - heading "Customers" [level=1] [ref=e411]
+          - paragraph [ref=e412]: Build stronger relationships and keep every customer detail in one place.
+        - button "New customer" [ref=e413] [cursor=pointer]
+      - generic [ref=e415]:
+        - article [ref=e416]:
+          - generic [ref=e420]:
+            - generic [ref=e421]: Total customers
+            - strong [ref=e422]: "05"
+        - article [ref=e423]:
+          - generic [ref=e427]:
+            - generic [ref=e428]: Active status types
+            - strong [ref=e429]: "01"
+        - article [ref=e430]:
+          - generic [ref=e435]:
+            - generic [ref=e436]: Value in this view
+            - strong [ref=e437]: —
+        - article [ref=e438]:
+          - generic [ref=e442]:
+            - generic [ref=e443]: Last updated
+            - strong [ref=e444]: Just now
+      - generic [ref=e445]:
+        - generic [ref=e446]:
+          - generic [ref=e447]:
+            - heading "All customers 05" [level=2] [ref=e448]:
+              - text: All customers
+              - generic [ref=e449]: "05"
+            - paragraph [ref=e450]: A clear view of everything currently in your workspace.
+          - generic [ref=e451]:
+            - combobox "Filter records by status" [ref=e455] [cursor=pointer]:
+              - option "All records" [selected]
+              - option "Active"
+            - button "Export" [ref=e456] [cursor=pointer]
+        - table [ref=e461]:
+          - rowgroup [ref=e462]:
+            - row [ref=e463]:
+              - columnheader "REFERENCE" [ref=e464]
+              - columnheader "CUSTOMER / ITEM" [ref=e465]
+              - columnheader "DETAILS" [ref=e466]
+              - columnheader "STATUS" [ref=e467]
+              - columnheader "DUE DATE" [ref=e468]
+              - columnheader "VALUE" [ref=e469]
+              - columnheader "Actions" [ref=e470]
+          - rowgroup [ref=e471]:
+            - row [ref=e472]:
+              - cell "CUS-87526567" [ref=e473]
+              - cell [ref=e474]:
+                - strong [ref=e475]: rupali
+              - cell "fgjhny" [ref=e476]
+              - cell "Active" [ref=e477]
+              - cell "Nov 21, 2026" [ref=e480]
+              - cell "—" [ref=e481]
+              - cell [ref=e482]:
+                - button "More options for CUS-87526567" [ref=e483] [cursor=pointer]
+            - row [ref=e488]:
+              - cell "CUS-0001" [ref=e489]
+              - cell [ref=e490]:
+                - strong [ref=e491]: Apex Fabricators
+              - cell "Sanjay Mehta · Pune" [ref=e492]
+              - cell "Active" [ref=e493]
+              - cell "Nov 17, 2026" [ref=e496]
+              - cell "—" [ref=e497]
+              - cell [ref=e498]:
+                - button "More options for CUS-0001" [ref=e499] [cursor=pointer]
+            - row [ref=e504]:
+              - cell "CUS-0002" [ref=e505]
+              - cell [ref=e506]:
+                - strong [ref=e507]: Meridian Auto Parts
+              - cell "Kavita Joshi · Nashik" [ref=e508]
+              - cell "Active" [ref=e509]
+              - cell "Nov 17, 2026" [ref=e512]
+              - cell "—" [ref=e513]
+              - cell [ref=e514]:
+                - button "More options for CUS-0002" [ref=e515] [cursor=pointer]
+            - row [ref=e520]:
+              - cell "CUS-0003" [ref=e521]
+              - cell [ref=e522]:
+                - strong [ref=e523]: Northstar Rail Systems
+              - cell "Rohan Nair · Mumbai" [ref=e524]
+              - cell "Active" [ref=e525]
+              - cell "Nov 17, 2026" [ref=e528]
+              - cell "—" [ref=e529]
+              - cell [ref=e530]:
+                - button "More options for CUS-0003" [ref=e531] [cursor=pointer]
+            - row [ref=e536]:
+              - cell "CUS-0004" [ref=e537]
+              - cell [ref=e538]:
+                - strong [ref=e539]: Vantage Solar Works
+              - cell "Meera Kulkarni · Aurangabad" [ref=e540]
+              - cell "Active" [ref=e541]
+              - cell "Nov 17, 2026" [ref=e544]
+              - cell "—" [ref=e545]
+              - cell [ref=e546]:
+                - button "More options for CUS-0004" [ref=e547] [cursor=pointer]
+        - generic [ref=e552]:
+          - generic [ref=e553]:
+            - text: Showing
+            - strong [ref=e554]: 1–5
+            - text: of
+            - strong [ref=e555]: "5"
+            - text: records
+          - generic [ref=e556]:
+            - button "Previous page" [disabled] [ref=e557]
+            - button "Next page" [disabled] [ref=e560]
+      - generic [ref=e563]:
+        - generic [ref=e564]: Everything is up to date
+        - generic [ref=e567]: Last synced just now

@@ -1,0 +1,149 @@
+- generic [ref=f1e3]:
+  - complementary [ref=f1e4]:
+    - link "coatflow WORKSHOP OS" [ref=f1e5] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=f1e11]:
+        - strong [ref=f1e12]: coatflow
+        - generic [ref=f1e13]: WORKSHOP OS
+    - button "Vertex Coatings Manufacturing" [ref=f1e14] [cursor=pointer]:
+      - generic [ref=f1e18]:
+        - strong [ref=f1e19]: Vertex Coatings
+        - generic [ref=f1e20]: Manufacturing
+    - navigation "Main navigation" [ref=f1e23]:
+      - generic [ref=f1e24]:
+        - paragraph [ref=f1e25]: WORKSPACE
+        - button "Dashboard" [ref=f1e26] [cursor=pointer]
+        - button "Customers" [ref=f1e33] [cursor=pointer]
+        - button "Enquiries 4" [active] [ref=f1e40] [cursor=pointer]:
+          - generic [ref=f1e43]: Enquiries
+          - generic [ref=f1e44]: "4"
+        - button "Quotations" [ref=f1e45] [cursor=pointer]
+        - button "Orders" [ref=f1e50] [cursor=pointer]
+      - generic [ref=f1e56]:
+        - paragraph [ref=f1e57]: OPERATIONS
+        - button "Job Cards" [ref=f1e58] [cursor=pointer]
+        - button "Production" [ref=f1e63] [cursor=pointer]
+        - button "Inventory" [ref=f1e67] [cursor=pointer]
+        - button "Quality Control" [ref=f1e79] [cursor=pointer]
+        - button "Dispatch" [ref=f1e84] [cursor=pointer]
+      - generic [ref=f1e91]:
+        - paragraph [ref=f1e92]: FINANCE
+        - button "Invoices" [ref=f1e93] [cursor=pointer]
+        - button "Payments" [ref=f1e98] [cursor=pointer]
+    - generic [ref=f1e102]:
+      - generic [ref=f1e103]:
+        - strong [ref=f1e108]: Need a hand?
+        - paragraph [ref=f1e109]: Our team is here to help you get more from CoatFlow.
+        - button "Visit help center" [ref=f1e110] [cursor=pointer]
+      - button "Settings" [ref=f1e113] [cursor=pointer]
+      - generic [ref=f1e118]:
+        - generic [ref=f1e119]: RK
+        - generic [ref=f1e120]:
+          - strong [ref=f1e121]: Rahul Kulkarni
+          - generic [ref=f1e122]: Workshop admin
+  - main [ref=f1e127]:
+    - generic [ref=f1e128]:
+      - generic [ref=f1e130]:
+        - generic [ref=f1e131]: Workspace
+        - strong [ref=f1e134]: Enquiries
+      - generic [ref=f1e135]:
+        - generic [ref=f1e136]:
+          - textbox "Search current page" [ref=f1e140]:
+            - /placeholder: Search anything...
+          - generic [ref=f1e141]: ⌘ K
+        - button "Notifications" [ref=f1e143] [cursor=pointer]
+        - button "Help" [ref=f1e148] [cursor=pointer]
+    - generic [ref=f1e152]:
+      - generic [ref=f1e153]:
+        - generic [ref=f1e154]:
+          - generic [ref=f1e155]:
+            - generic [ref=f1e156]: WORKSPACE
+            - text: ENQUIRIES
+          - heading "Enquiries" [level=1] [ref=f1e290]
+          - paragraph [ref=f1e160]: Capture new opportunities and turn incoming requests into confirmed work.
+        - button "New enquiry" [ref=f1e291] [cursor=pointer]
+      - generic [ref=f1e163]:
+        - article [ref=f1e164]:
+          - generic [ref=f1e168]:
+            - generic [ref=f1e169]: Total enquiries
+            - strong [ref=f1e170]: "03"
+        - article [ref=f1e171]:
+          - generic [ref=f1e175]:
+            - generic [ref=f1e176]: Active status types
+            - strong [ref=f1e177]: "03"
+        - article [ref=f1e178]:
+          - generic [ref=f1e183]:
+            - generic [ref=f1e184]: Value in this view
+            - strong [ref=f1e185]: —
+        - article [ref=f1e186]:
+          - generic [ref=f1e190]:
+            - generic [ref=f1e191]: Last updated
+            - strong [ref=f1e192]: Just now
+      - generic [ref=f1e193]:
+        - generic [ref=f1e194]:
+          - generic [ref=f1e195]:
+            - heading "All enquiries 03" [level=2] [ref=f1e292]:
+              - text: All enquiries
+              - generic [ref=f1e197]: "03"
+            - paragraph [ref=f1e198]: A clear view of everything currently in your workspace.
+          - generic [ref=f1e199]:
+            - combobox "Filter records by status" [ref=f1e203] [cursor=pointer]:
+              - option "All records" [selected]
+              - option "Qualified"
+              - option "Quoted"
+              - option "Converted"
+            - button "Export" [ref=f1e204] [cursor=pointer]
+        - table [ref=f1e209]:
+          - rowgroup [ref=f1e210]:
+            - row [ref=f1e211]:
+              - columnheader "REFERENCE" [ref=f1e212]
+              - columnheader "CUSTOMER / ITEM" [ref=f1e213]
+              - columnheader "DETAILS" [ref=f1e214]
+              - columnheader "STATUS" [ref=f1e215]
+              - columnheader "DUE DATE" [ref=f1e216]
+              - columnheader "VALUE" [ref=f1e217]
+              - columnheader "Actions" [ref=f1e218]
+          - rowgroup [ref=f1e241]:
+            - row [ref=f1e293]:
+              - cell "ENQ-2026-003" [ref=f1e294]
+              - cell [ref=f1e295]:
+                - strong [ref=f1e296]: Vantage Solar Works
+              - cell "Solar mounting bracket coating" [ref=f1e297]
+              - cell "Qualified" [ref=f1e298]
+              - cell "Nov 16, 2026" [ref=f1e301]
+              - cell "—" [ref=f1e302]
+              - cell [ref=f1e303]:
+                - button "More options for ENQ-2026-003" [ref=f1e304] [cursor=pointer]
+            - row [ref=f1e309]:
+              - cell "ENQ-2026-002" [ref=f1e310]
+              - cell [ref=f1e311]:
+                - strong [ref=f1e312]: Meridian Auto Parts
+              - cell "Automotive wheel hub coating" [ref=f1e313]
+              - cell "Quoted" [ref=f1e314]
+              - cell "Nov 15, 2026" [ref=f1e317]
+              - cell "—" [ref=f1e318]
+              - cell [ref=f1e319]:
+                - button "More options for ENQ-2026-002" [ref=f1e320] [cursor=pointer]
+            - row [ref=f1e325]:
+              - cell "ENQ-2026-001" [ref=f1e326]
+              - cell [ref=f1e327]:
+                - strong [ref=f1e328]: Apex Fabricators
+              - cell "Powder coating for aluminium enclosures" [ref=f1e329]
+              - cell "Converted" [ref=f1e330]
+              - cell "Nov 12, 2026" [ref=f1e333]
+              - cell "—" [ref=f1e334]
+              - cell [ref=f1e335]:
+                - button "More options for ENQ-2026-001" [ref=f1e336] [cursor=pointer]
+        - generic [ref=f1e224]:
+          - generic [ref=f1e225]:
+            - text: Showing
+            - strong [ref=f1e226]: 1–3
+            - text: of
+            - strong [ref=f1e227]: "3"
+            - text: records
+          - generic [ref=f1e228]:
+            - button "Previous page" [disabled] [ref=f1e229]
+            - button "Next page" [disabled] [ref=f1e232]
+      - generic [ref=f1e235]:
+        - generic [ref=f1e236]: Everything is up to date
+        - generic [ref=f1e239]: Last synced just now

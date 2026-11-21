@@ -1,0 +1,68 @@
+- generic [ref=f4e3]:
+  - complementary [ref=f4e4]:
+    - link "coatflow WORKSHOP OS" [ref=f4e5] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=f4e11]:
+        - strong [ref=f4e12]: coatflow
+        - generic [ref=f4e13]: WORKSHOP OS
+    - button "Vertex Coatings Manufacturing" [ref=f4e14] [cursor=pointer]:
+      - generic [ref=f4e18]:
+        - strong [ref=f4e19]: Vertex Coatings
+        - generic [ref=f4e20]: Manufacturing
+    - navigation "Main navigation" [ref=f4e23]:
+      - generic [ref=f4e24]:
+        - paragraph [ref=f4e25]: WORKSPACE
+        - button "Dashboard" [ref=f4e26] [cursor=pointer]
+        - button "Customers" [ref=f4e33] [cursor=pointer]
+        - button "Enquiries 4" [ref=f4e40] [cursor=pointer]:
+          - generic [ref=f4e43]: Enquiries
+          - generic [ref=f4e44]: "4"
+        - button "Quotations" [ref=f4e45] [cursor=pointer]
+        - button "Orders" [ref=f4e50] [cursor=pointer]
+      - generic [ref=f4e56]:
+        - paragraph [ref=f4e57]: OPERATIONS
+        - button "Job Cards" [ref=f4e58] [cursor=pointer]
+        - button "Production" [ref=f4e63] [cursor=pointer]
+        - button "Inventory" [ref=f4e67] [cursor=pointer]
+        - button "Quality Control" [ref=f4e79] [cursor=pointer]
+        - button "Dispatch" [ref=f4e84] [cursor=pointer]
+      - generic [ref=f4e91]:
+        - paragraph [ref=f4e92]: FINANCE
+        - button "Invoices" [ref=f4e93] [cursor=pointer]
+        - button "Payments" [ref=f4e98] [cursor=pointer]
+    - generic [ref=f4e102]:
+      - generic [ref=f4e103]:
+        - strong [ref=f4e108]: Need a hand?
+        - paragraph [ref=f4e109]: Our team is here to help you get more from CoatFlow.
+        - button "Visit help center" [ref=f4e110] [cursor=pointer]
+      - button "Settings" [ref=f4e113] [cursor=pointer]
+      - generic [ref=f4e118]:
+        - generic [ref=f4e119]: RK
+        - generic [ref=f4e120]:
+          - strong [ref=f4e121]: Rahul Kulkarni
+          - generic [ref=f4e122]: Workshop admin
+  - main [ref=f4e127]:
+    - generic [ref=f4e128]:
+      - generic [ref=f4e129]:
+        - button "Open navigation" [ref=f4e130] [cursor=pointer]
+        - generic [ref=f4e132]:
+          - generic [ref=f4e133]: Workspace
+          - strong [ref=f4e136]: Dashboard
+      - generic [ref=f4e137]:
+        - generic [ref=f4e138]:
+          - textbox "Search current page":
+            - /placeholder: Search anything...
+        - button "Notifications" [ref=f4e143] [cursor=pointer]
+    - generic [ref=f4e148]:
+      - generic [ref=f4e149]:
+        - generic [ref=f4e150]:
+          - generic [ref=f4e151]: SATURDAY, NOVEMBER 21, 2026 SHIFT A
+          - heading "Good morning, Rahul ✳" [level=1] [ref=f4e155]:
+            - text: Good morning, Rahul
+            - generic [ref=f4e156]: ✳
+          - paragraph [ref=f4e157]: Here's what's happening at your workshop today.
+        - button "Create an order" [ref=f4e158] [cursor=pointer]
+      - strong [ref=f4e164]: Loading dashboard…
+      - generic [ref=f4e165]:
+        - generic [ref=f4e166]: Everything is up to date
+        - generic [ref=f4e169]: Last synced just now

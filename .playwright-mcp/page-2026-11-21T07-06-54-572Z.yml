@@ -1,0 +1,117 @@
+- generic [ref=f3e3]:
+  - complementary [ref=f3e4]:
+    - link "coatflow WORKSHOP OS" [ref=f3e5] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=f3e11]:
+        - strong [ref=f3e12]: coatflow
+        - generic [ref=f3e13]: WORKSHOP OS
+    - button "Vertex Coatings Manufacturing" [ref=f3e14] [cursor=pointer]:
+      - generic [ref=f3e18]:
+        - strong [ref=f3e19]: Vertex Coatings
+        - generic [ref=f3e20]: Manufacturing
+    - navigation "Main navigation" [ref=f3e23]:
+      - generic [ref=f3e24]:
+        - paragraph [ref=f3e25]: WORKSPACE
+        - button "Dashboard" [ref=f3e26] [cursor=pointer]
+        - button "Customers" [ref=f3e33] [cursor=pointer]
+        - button "Enquiries 4" [ref=f3e40] [cursor=pointer]:
+          - generic [ref=f3e43]: Enquiries
+          - generic [ref=f3e44]: "4"
+        - button "Quotations" [ref=f3e45] [cursor=pointer]
+        - button "Orders" [ref=f3e50] [cursor=pointer]
+      - generic [ref=f3e56]:
+        - paragraph [ref=f3e57]: OPERATIONS
+        - button "Job Cards" [ref=f3e58] [cursor=pointer]
+        - button "Production" [ref=f3e63] [cursor=pointer]
+        - button "Inventory" [ref=f3e67] [cursor=pointer]
+        - button "Quality Control" [ref=f3e79] [cursor=pointer]
+        - button "Dispatch" [ref=f3e84] [cursor=pointer]
+      - generic [ref=f3e91]:
+        - paragraph [ref=f3e92]: FINANCE
+        - button "Invoices" [ref=f3e93] [cursor=pointer]
+        - button "Payments" [ref=f3e98] [cursor=pointer]
+    - generic [ref=f3e102]:
+      - generic [ref=f3e103]:
+        - strong [ref=f3e108]: Need a hand?
+        - paragraph [ref=f3e109]: Our team is here to help you get more from CoatFlow.
+        - button "Visit help center" [ref=f3e110] [cursor=pointer]
+      - button "Settings" [ref=f3e113] [cursor=pointer]
+      - generic [ref=f3e118]:
+        - generic [ref=f3e119]: RK
+        - generic [ref=f3e120]:
+          - strong [ref=f3e121]: Rahul Kulkarni
+          - generic [ref=f3e122]: Workshop admin
+  - main [ref=f3e127]:
+    - generic [ref=f3e128]:
+      - generic [ref=f3e130]:
+        - generic [ref=f3e131]: Workspace
+        - strong [ref=f3e134]: Customers
+      - generic [ref=f3e135]:
+        - generic [ref=f3e136]:
+          - textbox "Search current page" [ref=f3e140]:
+            - /placeholder: Search anything...
+          - generic [ref=f3e141]: ⌘ K
+        - button "Notifications" [ref=f3e143] [cursor=pointer]
+        - button "Help" [ref=f3e148] [cursor=pointer]
+    - generic [ref=f3e152]:
+      - generic [ref=f3e153]:
+        - generic [ref=f3e154]:
+          - generic [ref=f3e155]:
+            - generic [ref=f3e156]: WORKSPACE
+            - text: CUSTOMERS
+          - heading "Customers" [level=1] [ref=f3e159]
+          - paragraph [ref=f3e160]: Build stronger relationships and keep every customer detail in one place.
+        - button "New customer" [ref=f3e161] [cursor=pointer]
+      - generic [ref=f3e163]:
+        - article [ref=f3e164]:
+          - generic [ref=f3e168]:
+            - generic [ref=f3e169]: Total customers
+            - strong [ref=f3e170]: "00"
+        - article [ref=f3e171]:
+          - generic [ref=f3e175]:
+            - generic [ref=f3e176]: Active status types
+            - strong [ref=f3e177]: "00"
+        - article [ref=f3e178]:
+          - generic [ref=f3e183]:
+            - generic [ref=f3e184]: Value in this view
+            - strong [ref=f3e185]: —
+        - article [ref=f3e186]:
+          - generic [ref=f3e190]:
+            - generic [ref=f3e191]: Last updated
+            - strong [ref=f3e192]: Just now
+      - generic [ref=f3e193]:
+        - generic [ref=f3e194]:
+          - generic [ref=f3e195]:
+            - heading "All customers 00" [level=2] [ref=f3e196]:
+              - text: All customers
+              - generic [ref=f3e197]: "00"
+            - paragraph [ref=f3e198]: A clear view of everything currently in your workspace.
+          - generic [ref=f3e199]:
+            - combobox "Filter records by status" [ref=f3e203] [cursor=pointer]:
+              - option "All records" [selected]
+            - button "Export" [ref=f3e204] [cursor=pointer]
+        - table [ref=f3e209]:
+          - rowgroup [ref=f3e210]:
+            - row [ref=f3e211]:
+              - columnheader "REFERENCE" [ref=f3e212]
+              - columnheader "CUSTOMER / ITEM" [ref=f3e213]
+              - columnheader "DETAILS" [ref=f3e214]
+              - columnheader "STATUS" [ref=f3e215]
+              - columnheader "DUE DATE" [ref=f3e216]
+              - columnheader "VALUE" [ref=f3e217]
+              - columnheader "Actions" [ref=f3e218]
+          - rowgroup
+        - strong [ref=f3e223]: Loading customers…
+        - generic [ref=f3e224]:
+          - generic [ref=f3e225]:
+            - text: Showing
+            - strong [ref=f3e226]: 0–0
+            - text: of
+            - strong [ref=f3e227]: "0"
+            - text: records
+          - generic [ref=f3e228]:
+            - button "Previous page" [disabled] [ref=f3e229]
+            - button "Next page" [disabled] [ref=f3e232]
+      - generic [ref=f3e235]:
+        - generic [ref=f3e236]: Everything is up to date
+        - generic [ref=f3e239]: Last synced just now

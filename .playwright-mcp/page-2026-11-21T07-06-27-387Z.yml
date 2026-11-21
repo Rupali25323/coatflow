@@ -1,0 +1,182 @@
+- generic [ref=f2e3]:
+  - complementary [ref=f2e4]:
+    - link "coatflow WORKSHOP OS" [ref=f2e5] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=f2e11]:
+        - strong [ref=f2e12]: coatflow
+        - generic [ref=f2e13]: WORKSHOP OS
+    - button "Vertex Coatings Manufacturing" [ref=f2e14] [cursor=pointer]:
+      - generic [ref=f2e18]:
+        - strong [ref=f2e19]: Vertex Coatings
+        - generic [ref=f2e20]: Manufacturing
+    - navigation "Main navigation" [ref=f2e23]:
+      - generic [ref=f2e24]:
+        - paragraph [ref=f2e25]: WORKSPACE
+        - button "Dashboard" [ref=f2e26] [cursor=pointer]
+        - button "Customers" [ref=f2e33] [cursor=pointer]
+        - button "Enquiries 4" [ref=f2e40] [cursor=pointer]:
+          - generic [ref=f2e43]: Enquiries
+          - generic [ref=f2e44]: "4"
+        - button "Quotations" [ref=f2e45] [cursor=pointer]
+        - button "Orders" [ref=f2e50] [cursor=pointer]
+      - generic [ref=f2e56]:
+        - paragraph [ref=f2e57]: OPERATIONS
+        - button "Job Cards" [ref=f2e58] [cursor=pointer]
+        - button "Production" [ref=f2e63] [cursor=pointer]
+        - button "Inventory" [ref=f2e67] [cursor=pointer]
+        - button "Quality Control" [ref=f2e79] [cursor=pointer]
+        - button "Dispatch" [ref=f2e84] [cursor=pointer]
+      - generic [ref=f2e91]:
+        - paragraph [ref=f2e92]: FINANCE
+        - button "Invoices" [ref=f2e93] [cursor=pointer]
+        - button "Payments" [ref=f2e98] [cursor=pointer]
+    - generic [ref=f2e102]:
+      - generic [ref=f2e103]:
+        - strong [ref=f2e108]: Need a hand?
+        - paragraph [ref=f2e109]: Our team is here to help you get more from CoatFlow.
+        - button "Visit help center" [ref=f2e110] [cursor=pointer]
+      - button "Settings" [ref=f2e113] [cursor=pointer]
+      - generic [ref=f2e118]:
+        - generic [ref=f2e119]: RK
+        - generic [ref=f2e120]:
+          - strong [ref=f2e121]: Rahul Kulkarni
+          - generic [ref=f2e122]: Workshop admin
+  - main [ref=f2e127]:
+    - generic [ref=f2e128]:
+      - generic [ref=f2e130]:
+        - generic [ref=f2e131]: Workspace
+        - strong [ref=f2e134]: Orders
+      - generic [ref=f2e135]:
+        - generic [ref=f2e136]:
+          - textbox "Search current page" [ref=f2e140]:
+            - /placeholder: Search anything...
+          - generic [ref=f2e141]: ⌘ K
+        - button "Notifications" [ref=f2e143] [cursor=pointer]
+        - button "Help" [ref=f2e148] [cursor=pointer]
+    - generic [ref=f2e152]:
+      - generic [ref=f2e153]:
+        - generic [ref=f2e154]:
+          - generic [ref=f2e155]:
+            - generic [ref=f2e156]: WORKSPACE
+            - text: ORDERS
+          - heading "Orders" [level=1] [ref=f2e316]
+          - paragraph [ref=f2e160]: Track every confirmed job from order intake to successful delivery.
+        - button "New order" [ref=f2e317] [cursor=pointer]
+      - generic [ref=f2e163]:
+        - article [ref=f2e164]:
+          - generic [ref=f2e168]:
+            - generic [ref=f2e169]: Total orders
+            - strong [ref=f2e170]: "06"
+        - article [ref=f2e171]:
+          - generic [ref=f2e175]:
+            - generic [ref=f2e176]: Active status types
+            - strong [ref=f2e177]: "05"
+        - article [ref=f2e178]:
+          - generic [ref=f2e183]:
+            - generic [ref=f2e184]: Value in this view
+            - strong [ref=f2e185]: ₹2,24,800
+        - article [ref=f2e186]:
+          - generic [ref=f2e190]:
+            - generic [ref=f2e191]: Last updated
+            - strong [ref=f2e192]: Just now
+      - generic [ref=f2e193]:
+        - generic [ref=f2e194]:
+          - generic [ref=f2e195]:
+            - heading "All orders 06" [level=2] [ref=f2e424]:
+              - text: All orders
+              - generic [ref=f2e197]: "06"
+            - paragraph [ref=f2e198]: A clear view of everything currently in your workspace.
+          - generic [ref=f2e199]:
+            - combobox "Filter records by status" [ref=f2e203] [cursor=pointer]:
+              - option "All records" [selected]
+              - option "New"
+              - option "In production"
+              - option "Ready to ship"
+              - option "Confirmed"
+              - option "Completed"
+            - button "Export" [ref=f2e204] [cursor=pointer]
+        - table [ref=f2e209]:
+          - rowgroup [ref=f2e210]:
+            - row [ref=f2e211]:
+              - columnheader "REFERENCE" [ref=f2e212]
+              - columnheader "CUSTOMER / ITEM" [ref=f2e213]
+              - columnheader "DETAILS" [ref=f2e214]
+              - columnheader "STATUS" [ref=f2e215]
+              - columnheader "DUE DATE" [ref=f2e216]
+              - columnheader "VALUE" [ref=f2e217]
+              - columnheader "Actions" [ref=f2e218]
+          - rowgroup [ref=f2e219]:
+            - row [ref=f2e425]:
+              - cell "ORD-6824" [ref=f2e426]
+              - cell [ref=f2e427]:
+                - strong [ref=f2e428]: Regression Order Check
+              - cell "In-memory module regression" [ref=f2e429]
+              - cell "New" [ref=f2e430]
+              - cell "Nov 21, 2026" [ref=f2e433]
+              - cell "—" [ref=f2e434]
+              - cell [ref=f2e435]:
+                - button "More options for ORD-6824" [ref=f2e436] [cursor=pointer]
+            - row [ref=f2e319]:
+              - cell "ORD-0589" [ref=f2e320]
+              - cell [ref=f2e321]:
+                - strong [ref=f2e322]: Apex Fabricators
+              - cell "Aluminium enclosures · 320 pcs" [ref=f2e323]
+              - cell "In production" [ref=f2e324]
+              - cell "Oct 26, 2025" [ref=f2e327]
+              - cell "₹48,500" [ref=f2e328]
+              - cell [ref=f2e329]:
+                - button "More options for ORD-0589" [ref=f2e330] [cursor=pointer]
+            - row [ref=f2e335]:
+              - cell "ORD-0588" [ref=f2e336]
+              - cell [ref=f2e337]:
+                - strong [ref=f2e338]: Meridian Auto Parts
+              - cell "Steel wheel hubs · 80 pcs" [ref=f2e339]
+              - cell "Ready to ship" [ref=f2e340]
+              - cell "Oct 25, 2025" [ref=f2e343]
+              - cell "₹31,500" [ref=f2e344]
+              - cell [ref=f2e345]:
+                - button "More options for ORD-0588" [ref=f2e346] [cursor=pointer]
+            - row [ref=f2e351]:
+              - cell "ORD-0587" [ref=f2e352]
+              - cell [ref=f2e353]:
+                - strong [ref=f2e354]: Northstar Rail Systems
+              - cell "Control panels · 16 pcs" [ref=f2e355]
+              - cell "In production" [ref=f2e356]
+              - cell "Oct 27, 2025" [ref=f2e359]
+              - cell "₹54,200" [ref=f2e360]
+              - cell [ref=f2e361]:
+                - button "More options for ORD-0587" [ref=f2e362] [cursor=pointer]
+            - row [ref=f2e367]:
+              - cell "ORD-0586" [ref=f2e368]
+              - cell [ref=f2e369]:
+                - strong [ref=f2e370]: Vantage Solar Works
+              - cell "Mounting brackets · 1,200 pcs" [ref=f2e371]
+              - cell "Confirmed" [ref=f2e372]
+              - cell "Oct 29, 2025" [ref=f2e375]
+              - cell "₹72,000" [ref=f2e376]
+              - cell [ref=f2e377]:
+                - button "More options for ORD-0586" [ref=f2e378] [cursor=pointer]
+            - row [ref=f2e383]:
+              - cell "ORD-0585" [ref=f2e384]
+              - cell [ref=f2e385]:
+                - strong [ref=f2e386]: Oak & Iron Studio
+              - cell "Custom table frames · 24 pcs" [ref=f2e387]
+              - cell "Completed" [ref=f2e388]
+              - cell "Oct 22, 2025" [ref=f2e391]
+              - cell "₹18,600" [ref=f2e392]
+              - cell [ref=f2e393]:
+                - button "More options for ORD-0585" [ref=f2e394] [cursor=pointer]
+        - generic [ref=f2e300]:
+          - generic [ref=f2e301]:
+            - text: Showing
+            - strong [ref=f2e302]: 1–6
+            - text: of
+            - strong [ref=f2e303]: "6"
+            - text: records
+          - generic [ref=f2e304]:
+            - button "Previous page" [disabled] [ref=f2e305]
+            - button "Next page" [disabled] [ref=f2e308]
+      - generic [ref=f2e311]:
+        - generic [ref=f2e312]: Everything is up to date
+        - generic [ref=f2e315]: Last synced just now
+  - generic [ref=f2e441]: Record created successfully
